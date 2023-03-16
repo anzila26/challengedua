@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tip Time</string>
+    <string name="edit_text">Cost of Service</string>
+    <string name="viwe_text_satu">How was the service?</string>
+    <string name="radio_satu">Amazing (20%)</string>
+    <string name="radio_dua">Good (18%)</string>
+    <string name="radio_tiga">OK (15%)</string>
+    <string name="switch_text">Round up tip?</string>
+    <string name="botton_text">CALCULATE</string>
+    <string name="viwe_text_dua">Tip Amount</string>
+</resources>
